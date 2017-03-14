@@ -1,4 +1,5 @@
 !#/bin/bash
 clear
 
-echo "Hellow World"
+echo "Hello World"
+echo "By: Raul"
